@@ -2,7 +2,7 @@
 
 I'm [S0cke3t](http://www.saferoad.cc)
 
-* 🔭 Web security
+* 🔭 Web security rookie
 * 🌱 C#,python,java,freelance developer
 * 📫 http://www.saferoad.cc
 
