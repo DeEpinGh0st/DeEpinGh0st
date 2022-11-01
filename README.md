@@ -1,11 +1,9 @@
 # Hi there 👋
 
-<img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
-
-I'm [S0cke3t](http://www.saferoad.cc)
-  * 📫 Web security rookie
+I'm [S0cke3t](https://saferoad.cc)
+  * 📫 Web security runoob
   * 🌱 C#,python,java,freelance developer
-  * ✏️ Blog: http://www.saferoad.cc
+  * ✏️ Blog: https://saferoad.cc
 
 ## 🔭 Github stats
 
