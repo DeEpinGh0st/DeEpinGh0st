@@ -1,9 +1,10 @@
 # Hi there 👋
 
 I'm [S0cke3t](https://saferoad.cc)
-  * 📫 Web security runoob
-  * 🌱 C#,python,java,freelance developer
-  * ✏️ Blog: https://saferoad.cc
+  * 📫 Web security researcher.
+  * 🌱 Specialized: security tool development, red team, anti-virus evasion.
+  * 📕 Preferred language: Nim,Python,Java,DoNet.
+  * 💻 Blog: https://saferoad.cc.
 
 ## 🔭 Github stats
 
